@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zgosalvez/github-actions-report-lcov.git"
+    "url": "git+https://github.com/alvaro-vinuela/github-actions-report-lcov.git"
   },
   "keywords": [
     "actions",
